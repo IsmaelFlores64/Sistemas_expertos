@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "27001bdee8dc7176",
+    "type": "split",
+    "children": [
+      {
+        "id": "0203587c3eec24b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe4bcc90a3c4c0b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79a16a5491cfb7ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0bb05c3de38621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b91f2f9d0a0b46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d14917ccb2fa504a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "14b2d6d79b70aba5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86d2b832ff2c2a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "565b5d8d95c830df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f40a29c6658895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d2c193e406df23d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "969786e3a9121801",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6dc63a5c864dfe0f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "bbdd638787216830",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "9fe4bcc90a3c4c0b",
+  "lastOpenFiles": [
+    "Robot de Pelea BotCrash.md",
+    "Arena BattleDom.md",
+    "Motor DC Brushless.md",
+    "BattleDom - Arena de Combate.md",
+    "Criterios de Evaluación.md",
+    "Armas y Mecanismos.md",
+    "Sistema Eléctrico y Failsafe.md",
+    "Reglamento y Normativa BotCrash.md",
+    "Robot de Pelea.md",
+    "Competencia BotCrash.md",
+    "Batería LiPo.md",
+    "Motores DC Brushless.md",
+    "Microcontrolador Principal.md",
+    "Estrategia y Lógica de Combate.md",
+    "ESC - Controlador Electrónico de Velocidad.md",
+    "Bienvenido.md",
+    "Chasis y Blindaje.md"
+  ]
+}
